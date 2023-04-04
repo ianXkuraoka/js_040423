@@ -14,3 +14,9 @@ switch(opcao){
         document.write("opção inválida")
         break;
 }
+
+//sssssssssssssssssssssssssssssssssssssssssssssss
+
+for(let i=0; i <10; i++){
+    console.log("Agora i vale "+ i)
+}
